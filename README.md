@@ -33,7 +33,6 @@ As músicas que apresentam outros artistas incluirão "feat." no nome da música
 Sua consulta deve gerar uma tabela com uma única coluna para o nome de cada música.
 Exemplo de Execução:
 
-![video](image/como%20deve%20se%20comportar.mp4)
 
 ***Agradecimentos***:
 Conjunto de dados do Kaggle.
